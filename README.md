@@ -21,5 +21,5 @@ HW5:
 Implemented PD and MPC controllers for following reference path, tuning controller parameters for optimal performance.
 
 Final Project:
-arm - Autonomously detect and sort items on conveyer belt. Implemented particle filter for object detection and classification, RRT planner for path planning, and PD controller to follow trajectory
+arm - Autonomously detect and sort items on conveyer belt. Implemented particle filter for object detection and classification, RRT planner for path planning, and PD controller to follow trajectory.
 car - Autonomously fetch medicine and call doctor in a hospital environment. Implemented particle filter for AGV localization in hospital environment, A* planner for path planning, and MPC controller to follow trajectory.
