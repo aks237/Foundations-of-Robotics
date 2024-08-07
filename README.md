@@ -1,8 +1,8 @@
 Assignments from the Foundations of Robotics Course at Cornell University (CS 4750) where the concepts covered and implemented included the fundamentals of ROS, state estimation, planning, and control algorithms.
 
-Robots were visualized in RVIZ.
-Car Model: MuSHR (Multi-agent System for non-Holonomic Racing) car
-Arm Model: WidowX 250 robot arm (6 DoF)
+Robots were visualized in RVIZ.\n
+Car Model: MuSHR (Multi-agent System for non-Holonomic Racing) car\n
+Arm Model: WidowX 250 robot arm (6 DoF)\n
 
 
 Assignment Overviews:
